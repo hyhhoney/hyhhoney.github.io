@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hello Jekyll'
+title: 'Hello life'
 date: 2024-06-11
 author: xiao yang
 color: rgb(255,210,32)

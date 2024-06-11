@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2024-06-11 22:00:00 +0800
+date:   2024-06-10 20:00:00 +0800
 tags: hello happy
 color: rgb(255,90,90)
 cover: '../assets/test.png'

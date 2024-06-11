@@ -1,30 +1,30 @@
 ---
 layout: post
 title: 'Hello Jekyll'
-date: 2017-04-18
-author: Jekyll
+date: 2024-06-11
+author: xiao yang
 color: rgb(255,210,32)
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+tags: hello
 ---
 
 > Transform your plain text into static websites and blogs.
 
-# Welcome
+# 你好
 
-## Welcome
+## 这是一个树洞
 
-### Welcome
+### 生活日常分享
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+这里不是技术博客，只是我的个人分享的密码基地。其实你看见了这里也不是有什么很神秘的东西了
 
-### So what is Jekyll, exactly?Permalink
+### 小工具记录
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+分享一些我觉得很有用的小工具，你也可以试试呀
 
-### Helpful HintsPermalink
+### 情绪发泄地
 
-Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
+这也是我的情绪发泄地，我脾气很好，但是也需要发泄。
 
 ### Video Test
 

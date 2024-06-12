@@ -4,7 +4,7 @@ title: 'Hello life'
 date: 2024-06-11
 author: xiao yang
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: '../assets/test.png'
 tags: hello
 subtitle: '这是我的树洞分享!'
 ---
